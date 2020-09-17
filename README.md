@@ -2,9 +2,9 @@
 *forked from [VincentLoy/share-selected-text](https://github.com/VincentLoy/share-selected-text)*
 *share selected text on twitter! Inspired by [medium.com](https://medium.com)*
 
-![share selected text - ShareSelectedText.js](demo/sst.jpg)
+![share selected text - ShareSelectedText.js](demo/sst.png)
 
-VincentLoy made this small javascript library for his [personal blog](http://vincent-loy.fr), the existing 
+VincentLoy made this small javascript library for his [personal blog](http://vincent-loy.fr), the existing
 libraries doesn't fit his needs, so he created [that](https://github.com/VincentLoy/share-selected-text) one.
 
 ShareSelectedText.js modifeid version currently support the following social media services:
@@ -40,8 +40,7 @@ Then, you can init the plugin (change your username!):
 - Ruby on Rails engine: [share-selected-text_rails](https://github.com/WendyBeth/share-selected-text_rails) by [@WendyBeth](https://github.com/WendyBeth)
 
 ## Contribution Guidelines
-Please contribute to the original Repo. 
+Please contribute to the original Repo.
 
 ## Changelog
 *forked from commit cca6817 from 23/09/2019*
-
