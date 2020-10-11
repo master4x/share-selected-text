@@ -4,6 +4,8 @@
 
 ![share selected text - ShareSelectedText.js](demo/sst.png)
 
+**Demo:** https://master4x.github.io/share-selected-text/
+
 VincentLoy made this small javascript library for his [personal blog](http://vincent-loy.fr), the existing
 libraries doesn't fit his needs, so he created [that](https://github.com/VincentLoy/share-selected-text) one.
 
