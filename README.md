@@ -38,11 +38,11 @@ Then, you can init the plugin (change your username!):
 ```
 
 ## Other Builds
-- Original Build:[share-selected-text](https://github.com/VincentLoy/share-selected-text) by [@Vincent Loy](https://github.com/VincentLoy)
+- Original Build: [share-selected-text](https://github.com/VincentLoy/share-selected-text) by [@Vincent Loy](https://github.com/VincentLoy)
 - Ruby on Rails engine: [share-selected-text_rails](https://github.com/WendyBeth/share-selected-text_rails) by [@WendyBeth](https://github.com/WendyBeth)
 
 ## Contribution Guidelines
 Please contribute to the original Repo.
 
 ## Changelog
-*forked from commit cca6817 from 23/09/2019*
+*forked from version v1.15*
